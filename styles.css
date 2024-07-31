@@ -1,0 +1,13 @@
+
+a{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a.lunch{
+    background-color: brown;
+}
+
+a.breakfast{
+    background-color: yellow;
+}
